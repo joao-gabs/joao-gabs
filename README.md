@@ -1,11 +1,12 @@
 <h1 align="center">👋 Olá, eu sou João Gabriel!</h1>
+<h1 align="center">👋 Hello, I'am João Gabriel!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge" alt="Data Analyst Badge"/>
 </p>
 
 
-<h2>Sobre Mim</h2>
+<h2>Sobre Mim / About me</h2>
 <p>
  Sou um analista de dados em formação, com extrema curiosidade e vontade de conhecimento!!
  I'm a Data Analyst in training, with extreme curiosity and desire for knowledge!!
@@ -26,9 +27,10 @@
 <h2>🌱 Estou Aprendendo - Development Skills</h2>
 <p>
   Estou sempre buscando aprender sobre novos frameworks e ferramentas para melhorar minhas habilidades na área de programação e analise de dados para expandir meu conhecimento nesse mundo.
+<p>I'm always looking for learn about new tools and frameworks to improve my skills and knowledge in programming and Data Analysis.</p>
 </p>
 
-<h2>📫 Como Me Encontrar</h2>
+<h2>📫 Como Me Encontrar - How do you find me?</h2>
 <p>
   <a href="j.s.gabriel@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-s-pinheiro-ti202126/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
