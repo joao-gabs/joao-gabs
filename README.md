@@ -8,10 +8,10 @@
 
 <h2>Sobre Mim / About me</h2>
 <p>
- Sou um analista de dados em formação, com extrema curiosidade e vontade de conhecimento!!
+ Sou um analista de dados em formação pela FATEC-SP no curso de Análise e Desenvolvimento de Sistemas, com extrema curiosidade e vontade de conhecimento!
 </p>
 <p>
-  I'm a Data Analyst in training, with extreme curiosity and desire for knowledge!!
+ I am a data analyst in training at FATEC-SP in the Systems Analysis and Development course, with extreme curiosity and desire for knowledge!
 </p>
 
 <h2>🔧 Tecnologias e Ferramentas</h2>
