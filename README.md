@@ -9,7 +9,9 @@
 <h2>Sobre Mim / About me</h2>
 <p>
  Sou um analista de dados em formação, com extrema curiosidade e vontade de conhecimento!!
- I'm a Data Analyst in training, with extreme curiosity and desire for knowledge!!
+</p>
+<p>
+  I'm a Data Analyst in training, with extreme curiosity and desire for knowledge!!
 </p>
 
 <h2>🔧 Tecnologias e Ferramentas</h2>
