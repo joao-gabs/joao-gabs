@@ -1,43 +1,48 @@
-<h1 align="center">👋 Olá, eu sou João Gabriel!</h1>
-<h1 align="center">👋 Hello, I'am João Gabriel!</h1>
+<h1 align="left">Hello, I'am João Gabriel! Welcome!<br>Olá, sou o João Gabriel! Bem vindo!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge" alt="Data Analyst Badge"/>
 </p>
-
-
-<h2>Sobre Mim / About me</h2>
-<p>
- Sou um analista de dados em formação pela FATEC-SP no curso de Análise e Desenvolvimento de Sistemas, com extrema curiosidade e vontade de conhecimento!
-</p>
-<p>
- I am a data analyst in training at FATEC-SP in the Systems Analysis and Development course, with extreme curiosity and desire for knowledge!
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineer-green?style=for-the-badge" alt="Data Engineer Badge"/>
 </p>
 
-<h2>🔧 Tecnologias e Ferramentas</h2>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-1f77b4?style=for-the-badge" alt="Seaborn"/>
-</p>
 
-<h2>🌱 Estou Aprendendo - Development Skills</h2>
-<p>
-  Estou sempre buscando aprender sobre novos frameworks e ferramentas para melhorar minhas habilidades na área de programação e analise de dados para expandir meu conhecimento nesse mundo.
-<p>I'm always looking for learn about new tools and frameworks to improve my skills and knowledge in programming and Data Analysis.</p>
-</p>
+###
 
-<h2>📫 Como Me Encontrar - How do you find me?</h2>
-<p>
-  <a href="j.s.gabriel@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-s-pinheiro-ti202126/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<h3 align="left">Sobre Mim / About me<br><br>Sou um analista/engenheiro de dados em formação pela FATEC-SP no curso de Análise e Desenvolvimento de Sistemas, com extrema curiosidade e vontade de conhecimento!<br><br>I am a data analyst/engineer in training at FATEC-SP in the Systems Analysis and Development course, with extreme curiosity and desire for knowledge!</h3>
 
-<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); font-size: 1.5em; font-weight: bold;">
-  🌟 TAMO JUNTO! LET'S GO LEARNING GUYS!! 🚀
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-gabs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-gabs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=false&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<img align="right" height="180" src="https://media1.tenor.com/m/iiXPBzogA7sAAAAC/chopper-chopper-one-piece.gif"  />
+
+###
