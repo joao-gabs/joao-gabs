@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Sobre Mim / About me<br><br>Sou um analista/engenheiro de dados em formação pela FATEC-SP no curso de Análise e Desenvolvimento de Sistemas, com extrema curiosidade e vontade de conhecimento!<br><br>I am a data analyst/engineer in training at FATEC-SP in the Systems Analysis and Development course, with extreme curiosity and desire for knowledge!</h3>
+<h3 align="left">Sobre Mim / About me<br><br>Sou um engenheiro/analista de dados em formação pela FATEC-SP no curso de Análise e Desenvolvimento de Sistemas, com extrema curiosidade e vontade de conhecimento!<br><br>I am a data engineer/analyst in training at FATEC-SP in the Systems Analysis and Development course, with extreme curiosity and desire for knowledge!</h3>
 
 ###
 
