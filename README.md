@@ -92,6 +92,6 @@ Sempre aprendendo e desenvolvendo novos projetos na área de dados.
 ###
 
 <img align="right" height="180" src="https://media1.tenor.com/m/iiXPBzogA7sAAAAC/chopper-chopper-one-piece.gif"  />
-<img align="left" height="180" src="https://tenor.com/pt-BR/view/iloveyou-imissyou-gif-19907974"  />
+<img align="left" height="180" src="https://tenor.com/pt-BR/view/iloveyou-imissyou-gif-19907974.gif"  />
 
 ###
