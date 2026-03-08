@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas - FATEC-SP
 
 ---
 
-# 👨‍💻 Sobre mim
+#  Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas pela FATEC-SP**, com foco em **Análise de Dados e Engenharia de Dados**.
 
