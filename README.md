@@ -57,16 +57,6 @@ Busco constantemente aprimorar minhas habilidades técnicas e aplicar conhecimen
   
 ---
 
-#  Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joao-gabs&show_icons=true&theme=gotham"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-gabs&layout=compact&theme=gotham"/>
-
-</div>
-
 ---
 
 #  Projetos em destaque
@@ -102,5 +92,6 @@ Sempre aprendendo e desenvolvendo novos projetos na área de dados.
 ###
 
 <img align="right" height="180" src="https://media1.tenor.com/m/iiXPBzogA7sAAAAC/chopper-chopper-one-piece.gif"  />
+<img align="leftt" height="180" src="https://www.pinterest.com/pin/328903579012821209/"  />
 
 ###
