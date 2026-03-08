@@ -50,8 +50,6 @@ Busco constantemente aprimorar minhas habilidades técnicas e aplicar conhecimen
 - Python
 - Pandas
 - SQL
-- MySQL
-- BigQuery
 - Google Cloud Platform (GCP)
 - Power BI
 - Git
@@ -74,13 +72,13 @@ Busco constantemente aprimorar minhas habilidades técnicas e aplicar conhecimen
 
 #  Projetos em destaque
 
-### 🔹 Trade Flow Brasil
+###  Trade Flow Brasil
 Pipeline de dados para extração e análise de dados de comércio exterior brasileiro utilizando integração com API e transformação de dados em Python.
 
-### 🔹 Pipeline de ETL com GCP
+###  Pipeline de ETL com GCP
 Projeto de pipeline automatizado utilizando Python e Google Cloud para ingestão, transformação e armazenamento de dados.
 
-### 🔹 Análise de Dados de Vendas
+###  Análise de Dados de Vendas
 Projeto de ETL e análise exploratória de dados utilizando Python, Pandas e SQL.
 
 ---
