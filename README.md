@@ -48,14 +48,13 @@ Busco constantemente aprimorar minhas habilidades técnicas e aplicar conhecimen
 **Principais tecnologias que utilizo:**
 
 - Python
-- Pandas
 - SQL
 - Google Cloud Platform (GCP)
 - Power BI
 - Git
 - Processos de ETL
 - Pipelines de dados
-
+  
 ---
 
 #  Estatísticas do GitHub
