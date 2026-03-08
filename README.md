@@ -1,46 +1,107 @@
-<h1 align="left">Hello, I'am João Gabriel! Welcome!<br>Olá, sou o João Gabriel! Bem vindo!</h1>
+<h1 align="center">Olá, eu sou o João Gabriel </h1>
+
+<h3 align="center">
+Analista de Dados | Entusiasta em Engenharia de Dados
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge" alt="Data Analyst Badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineer-green?style=for-the-badge" alt="Data Engineer Badge"/>
+Estudante de Análise e Desenvolvimento de Sistemas - FATEC-SP
 </p>
 
+---
 
-###
+# 👨‍💻 Sobre mim
 
-<h3 align="left">Sobre Mim / About me<br><br>Sou um engenheiro/analista de dados em formação pela FATEC-SP no curso de Análise e Desenvolvimento de Sistemas, com extrema curiosidade e vontade de conhecimento!<br><br>I am a data engineer/analyst in training at FATEC-SP in the Systems Analysis and Development course, with extreme curiosity and desire for knowledge!</h3>
+Sou estudante de **Análise e Desenvolvimento de Sistemas pela FATEC-SP**, com foco em **Análise de Dados e Engenharia de Dados**.
 
-###
+Tenho grande interesse em transformar dados em **informações estratégicas para tomada de decisão**, utilizando ferramentas de análise, programação e cloud.
+
+Atualmente desenvolvo projetos envolvendo:
+
+-  Análise de dados
+-  Processos de ETL
+-  Construção de pipelines de dados
+-  Integração com APIs
+-  Plataformas de dados em nuvem
+
+Busco constantemente aprimorar minhas habilidades técnicas e aplicar conhecimento em **projetos práticos de dados**.
+
+---
+
+#  Tecnologias e Ferramentas
+
+### Linguagens e Manipulação de Dados
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</div>
+
+### Ferramentas e Plataformas
+
+<div>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="40"/>
+</div>
+
+**Principais tecnologias que utilizo:**
+
+- Python
+- Pandas
+- SQL
+- MySQL
+- BigQuery
+- Google Cloud Platform (GCP)
+- Power BI
+- Git
+- Processos de ETL
+- Pipelines de dados
+
+---
+
+#  Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao-gabs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-gabs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=false&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=joao-gabs&show_icons=true&theme=gotham"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-gabs&layout=compact&theme=gotham"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+#  Projetos em destaque
+
+### 🔹 Trade Flow Brasil
+Pipeline de dados para extração e análise de dados de comércio exterior brasileiro utilizando integração com API e transformação de dados em Python.
+
+### 🔹 Pipeline de ETL com GCP
+Projeto de pipeline automatizado utilizando Python e Google Cloud para ingestão, transformação e armazenamento de dados.
+
+### 🔹 Análise de Dados de Vendas
+Projeto de ETL e análise exploratória de dados utilizando Python, Pandas e SQL.
+
+---
+
+#  Contato
+
+<div>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
+Sempre aprendendo e desenvolvendo novos projetos na área de dados.
 ###
 
 <img align="right" height="180" src="https://media1.tenor.com/m/iiXPBzogA7sAAAAC/chopper-chopper-one-piece.gif"  />
