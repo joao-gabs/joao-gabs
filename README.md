@@ -92,6 +92,6 @@ Sempre aprendendo e desenvolvendo novos projetos na área de dados.
 ###
 
 <img align="right" height="180" src="https://media1.tenor.com/m/iiXPBzogA7sAAAAC/chopper-chopper-one-piece.gif"  />
-<img align="left" height="180" src="https://www.pinterest.com/pin/328903579012821209/"  />
+<img align="left" height="180" src="https://tenor.com/view/shikamaru-nara-naruto-anime-gif-12823988"  />
 
 ###
